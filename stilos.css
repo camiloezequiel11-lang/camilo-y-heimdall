@@ -1,0 +1,23 @@
+.contenedor1 {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.contenedor2 {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.contenedor3 {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
