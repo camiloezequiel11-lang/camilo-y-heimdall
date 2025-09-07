@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="stilos.css">
 </head>
 
-<body>
+<body class="fondo1">
     <div class="contenedor1">
         <a href="napoleon.php">napoleon bonaparte</a>
         <a href="julio cesar.php">julio cesar</a>
