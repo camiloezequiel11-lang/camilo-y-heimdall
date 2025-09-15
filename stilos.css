@@ -1,4 +1,4 @@
-.contenedor1{
+.contenedor1 {
 
     display: grid;
 
@@ -8,7 +8,7 @@
 
 .contenedor2 {
     background-image: url(imagenes/89c08597f103fb2418b9b5eaf58d74a9.jpg);
-    color:red ;
+    color: red;
 
     background-size: 100%;
     size: 200%;
@@ -20,29 +20,30 @@
 }
 
 .contenedor3 {
- 
+
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
 
-.fondo1{
-color: blue ;
- background-image: url(imagenes/c224ae73a81a2a2a65dfbce1102dd72a.jpg);
- background-size: 100%;
- }
+.fondo1 {
+    color: blue;
+    background-image: url(imagenes/c224ae73a81a2a2a65dfbce1102dd72a.jpg);
+    background-size: 100%;
+}
 
-.fondo2  {
+.fondo2 {
 
     color: aquamarine;
- background-image: url(imagenes/1205205.jpg);
- 
+    background-image: url(imagenes/1205205.jpg);
+
 }
-.fondo3{
+
+.fondo3 {
     color: red;
 
-background-image: url(imagenes/894383-Napoleon-Bonaparte-Napoleonic-wars-war.jpg);
- background-position: center;
- 
+    background-image: url(imagenes/894383-Napoleon-Bonaparte-Napoleonic-wars-war.jpg);
+    background-position: center;
+
 }
